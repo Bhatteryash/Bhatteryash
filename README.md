@@ -1,1 +1,1 @@
-                                                           Hi👋 I'M Yash Bhatter
+                                                           Hi👋 I'm Yash Bhatter
