@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Bhatter</h1>
-<h2 align="center">A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h2>
+<h2 align="center">A Passionate Java Backend Developer with hands-on experience in designing, developing projects. Adept at learning, unlearning, and relearning.</h2>
 <p><img align="center" src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966" alt="bhatteryash" /></p>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
