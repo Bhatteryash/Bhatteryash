@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **YashBhatter.yb@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ChNcXKoGIsN80bpyW-aDnOpAd7fHDOly/view?usp=sharing](https://drive.google.com/file/d/1ChNcXKoGIsN80bpyW-aDnOpAd7fHDOly/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1Aohk_IwYIu7X5InprfY7e9hhSs-_oqJS?usp=sharing)
 
 - ⚡ Fun fact **The MonaLisa has no eyebrows.**
 
